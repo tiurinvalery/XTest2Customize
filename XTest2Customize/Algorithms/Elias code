@@ -1,0 +1,11 @@
+input -> p
+
+p -> c -columns(size)
+p-> r - rows ...
+
+
+
+if(c[i] -> sum(numbers)%2==0) 
+	-> 0
+else 
+ 	-> 1
